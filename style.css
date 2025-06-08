@@ -22,6 +22,39 @@ body {
     padding: 2rem;
 }
 
+@media (max-width: 960px){
+    .introduccion {
+    text-align: center;
+    padding: 2rem 5rem;
+}
+
+.introduccion p{
+    padding: 1,5rem;
+}
+}
+
+@media (max-width: 768px){
+    .introduccion {
+    text-align: center;
+    padding: 1rem 5rem;
+}
+
+.introduccion p{
+    padding: 1rem;
+}
+}
+
+@media (max-width: 576px){
+    .introduccion {
+    text-align: center;
+    padding: 4rem 1rem 2rem 1rem;
+}
+
+.introduccion p{
+    padding: 1rem;
+}
+}
+
 /* Encabezado */
 .introduccion h1{
   color: #003366; /* Azul oscuro */
@@ -33,10 +66,21 @@ body {
 }
 
 .habilidades h2{
-    color: #003366;
+    color: #002626;
     margin-bottom: 3rem;
 }
 
+@media (max-width: 576px){
+  .row{
+    padding: 0rem 2rem;
+  }
+  .git{
+    margin-left: 2rem;
+  }
+  .github{
+    margin-right: 2rem;
+  }
+}
 
 /* seccion proyectos */
 .container {
@@ -52,16 +96,47 @@ body {
   background-color: #ffffff; /* Blanco */
   border-radius: 8px;
   box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
-  padding: 20px;
+  
   flex: 1;
 }
 
 .proyectosTitulo{
-    color: #003366;
+    color: #002626;
     text-align: center;
-    margin-bottom: 2rem;
+    /* margin-bottom: 2rem; */
 }
 
+
+.proyecto{
+  /* background-color: #d3d3d4; */
+  border-radius: 1rem;
+  padding: 10px;
+  margin: 0;
+}
+
+.ecommerce{
+  padding: 10px;
+}
+
+.proyecto p{
+  padding: 1rem;
+}
+.proyectoNombre {
+  background-color: #002626;
+  color: #ffffff; /* Texto blanco */
+  padding: 1rem;
+  border-radius: 5px;
+}
+
+/* Estilos de enlaces */
+.enlace {
+  color: #928f8d;
+  text-decoration: underline;
+}
+
+.enlace:hover {
+  text-decoration: none;
+}
 /* Estilos para la sección de información de contacto */
 .seccionContactos{
     background-color: #ffffff;
@@ -70,40 +145,23 @@ body {
 
 }
 
+@media (max-width: 768px) {
+  .seccionContactos{
+    padding: 3rem;
+  }
+}
+
 .contactoTitulo{
     text-align: center;
-    color: #003366;
+    color: #002626;
 }
 .contact-info {
-  background-color: #e0e7ef; /* Gris azulado */
+  background-color: #fff; /* Gris azulado */
   padding: 15px;
   border-radius: 8px;
 }
 
-/* Estilos de enlaces */
-a {
-  color: #0066cc; /* Azul standard */
-  text-decoration: none;
-}
-
-a:hover {
-  text-decoration: none;
-}
-
-/* Encabezados de secciones */
-h3 {
-  background-color: #003366; /* Azul oscuro */
-  color: #ffffff; /* Texto blanco */
-  padding: 10px;
-  border-radius: 5px;
-}
-
-/* Listas */
-ul {
-  list-style: none;
-  padding-left: 0;
-}
-
-li {
-  margin-bottom: 10px;
+.enviar{
+  background-color:#002626;
+  color: #928f8d;
 }
