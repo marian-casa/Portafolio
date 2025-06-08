@@ -1,43 +1,25 @@
-# 👋 ¡Hola! Soy Mariano Casarino  
-**Full Stack Developer** | Estudiante de la Tecnicatura en Desarrollo de Software (ISPC)  
-📍 Córdoba, Argentina
+# 💼 Portafolio Personal - Mariano Casarino
+
+¡Hola! Soy Mariano Casarino, estudiante de la Tecnicatura en Desarrollo de Software en el ISPC. Este es mi portafolio web, donde muestro algunos de los proyectos que desarrollé como parte de mi formación y aprendizaje continuo en el mundo del desarrollo Full Stack.
+
+Me apasiona la programación y disfruto trabajar tanto del lado del frontend como del backend. En este portfolio vas a encontrar trabajos realizados con HTML, CSS, JavaScript y Bootstrap, además de mencionar mis conocimientos en Python y SQL, que también forman parte de mi stack.
+
+🔗 **Podés ver el sitio desplegado acá:**  
+[https://portafolio-mariano-casarino.netlify.app/](https://portafolio-mariano-casarino.netlify.app/)
+
+## 🛠️ Tecnologías que utilizo
+
+- HTML5  
+- CSS3  
+- JavaScript  
+- Python  
+- SQL  
+- Bootstrap  
+- Git & GitHub
+
+## 📫 Contacto
+
+Si querés ponerte en contacto conmigo, podés hacerlo a través del formulario en el sitio o escribirme por GitHub.
 
 ---
-
-## 🧠 Sobre Mí  
-:contentReference[oaicite:2]{index=2} :contentReference[oaicite:3]{index=3}.
-
----
-
-## 💻 Habilidades Técnicas
-
-- :contentReference[oaicite:4]{index=4}  
-- :contentReference[oaicite:5]{index=5}  
-- :contentReference[oaicite:6]{index=6}  
-- :contentReference[oaicite:7]{index=7} :contentReference[oaicite:8]{index=8}  
-
----
-
-## 🚀 Proyectos Destacados
-
-- :contentReference[oaicite:9]{index=9}  
-  :contentReference[oaicite:10]{index=10} :contentReference[oaicite:11]{index=11}.
-
-- :contentReference[oaicite:12]{index=12}  
-  :contentReference[oaicite:13]{index=13} :contentReference[oaicite:14]{index=14}.
-
-> :contentReference[oaicite:15]{index=15}
-
----
-
-## 🎯 Objetivo Profesional  
-:contentReference[oaicite:16]{index=16}
-
----
-
-## 📫 Contacto  
-:contentReference[oaicite:17]{index=17}
-
----
-
-:contentReference[oaicite:18]{index=18}
+Gracias por visitar mi portfolio 🙌
