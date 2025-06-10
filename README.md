@@ -20,7 +20,7 @@ Me apasiona la programación y disfruto trabajar tanto del lado del frontend com
 
 ## 📫 Contacto
 
-Si querés ponerte en contacto conmigo, podés hacerlo a través del formulario en el sitio, mi mail: [📩enviar mail](mailto:mariano.e.casarino@gmail.com) o escribirme por GitHub.
+Si querés ponerte en contacto conmigo, podés hacerlo a través del formulario en el sitio, mi mail: [📩Enviar mail](mailto:mariano.e.casarino@gmail.com) o escribirme por GitHub.
 
 ---
 Gracias por visitar mi portfolio 🙌
