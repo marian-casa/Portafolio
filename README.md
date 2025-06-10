@@ -5,7 +5,7 @@
 Me apasiona la programación y disfruto trabajar tanto del lado del frontend como del backend. En este portfolio vas a encontrar trabajos realizados con HTML, CSS, SASS, JavaScript y Bootstrap, además de mencionar mis conocimientos en Python y SQL, que también forman parte de mi stack.
 
 🔗 **Podés ver el sitio desplegado acá:**  
-[https://portafolio-mariano-casarino.netlify.app/](https://portafolio-mariano-casarino.netlify.app/)
+[Deploy](https://portafolio-mariano-casarino.netlify.app/)
 
 ## 🛠️ Tecnologías que utilizo
 
@@ -20,7 +20,7 @@ Me apasiona la programación y disfruto trabajar tanto del lado del frontend com
 
 ## 📫 Contacto
 
-Si querés ponerte en contacto conmigo, podés hacerlo a través del formulario en el sitio, mi [📩mail](mariano.e.casarino@gmail.com) o escribirme por GitHub.
+Si querés ponerte en contacto conmigo, podés hacerlo a través del formulario en el sitio, mi mail: [📩enviar mail](mailto:mariano.e.casarino@gmail.com) o escribirme por GitHub.
 
 ---
 Gracias por visitar mi portfolio 🙌
